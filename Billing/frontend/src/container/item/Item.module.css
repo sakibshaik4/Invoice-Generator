@@ -1,0 +1,21 @@
+.signupMain {
+    height: 80%;
+    width: 50%;
+}
+
+.signupHeading{
+    height: 10%;
+}
+
+.signupContent{
+    height: 70%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.signupFooter{
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}

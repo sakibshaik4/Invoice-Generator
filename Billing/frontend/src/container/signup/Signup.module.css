@@ -1,0 +1,17 @@
+.signupMain {
+    height: 80%;
+    width: 50%;
+}
+
+.signupHeading{
+    height: 10%;
+}
+
+.signupContent{
+    height: 70%;
+    overflow-y: scroll;
+}
+
+.signupFooter{
+    height: 20%;
+}
